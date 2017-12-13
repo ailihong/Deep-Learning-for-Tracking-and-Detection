@@ -30,7 +30,7 @@ Collection of papers and other resources for object detection and tracking using
 
 	- **End-to-end Active Object Tracking via Reinforcement Learning** (arxiv 30 May 2017) (Peking University, Tencent AI Lab) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf), [arxiv](https://arxiv.org/abs/1705.10561)
         
-	- **Learning to Track at 100 FPS with Deep Regression Networks** (arxiv 6 Apr 2016) ([arxiv] https://arxiv.org/abs/1604.01802,[code](https://github.com/davheld/GOTURN))
+	- **Learning to Track at 100 FPS with Deep Regression Networks** (arxiv 6 Apr 2016) [code](https://github.com/davheld/GOTURN),[arxiv](https://arxiv.org/abs/1604.01802)
 	
 ## Other potentially useful papers
 - **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) by Microsoft Research
