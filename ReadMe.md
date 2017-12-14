@@ -2,7 +2,7 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Object Detection
 - **RetinaNet** ([pdf](https://arxiv.org/pdf/1708.02002.pdf),  [github](https://github.com/fizyr/keras-retinanet))
-better than yolo,frcnn,ssd display in paper
+better than yolo,frcnn,ssd display in paper by Facebook AI Research!
 
 - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
   * Summary goes here...
