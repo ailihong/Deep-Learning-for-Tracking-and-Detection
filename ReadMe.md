@@ -1,6 +1,9 @@
 Collection of papers and other resources for object detection and tracking using deep learning
 
 ## Object Detection
+- **RetinaNet** ([pdf](https://arxiv.org/pdf/1708.02002.pdf),  [github](https://github.com/fizyr/keras-retinanet))
+better than yolo,frcnn,ssd display in paper
+
 - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
   * Summary goes here...
 - Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
